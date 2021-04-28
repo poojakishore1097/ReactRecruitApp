@@ -1,0 +1,83 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px 120px;
+  cursor: pointer;
+}
+.buttondelete {
+  background-color: #f44336; /* Red */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+label {
+  padding: 5px 10px 10px 0;
+  display: inline-block;
+  margin: 1px 1px;
+}
+.inputtext {
+  width: 120%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  resize: vertical;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.inputleavename {
+  width: 120%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  resize: vertical;
+  text-align: center;
+  margin: 1px 20px;
+}
+.inputprogram {
+  width: 120%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  resize: vertical;
+  text-align: center;
+  margin: 1px 50px;
+}
+.inputregion {
+  width: 130%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  resize: vertical;
+  text-align: center;
+  margin: 1px 60px;
+}
+.inputposition {
+  width: 120%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  resize: vertical;
+  text-align: center;
+  margin: 1px 50px;
+}
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
